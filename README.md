@@ -1,7 +1,7 @@
 # Welcome to the GitHub Project Management repository
 :tada:
 
-This repository was created as a resource for folks learning how to use GitHub as a collaborative project management tool. :octocat:
+This repository was created as **a resource for folks learning how to use GitHub** as a collaborative project management tool. :octocat:
 
 Here are a few resources to help you right off the bat:
 * Glossary: https://github.com/joeyklee/friendly-github-intro/blob/master/glossary.md 
@@ -11,7 +11,7 @@ Here are a few resources to help you right off the bat:
 
 ### Go ahead and fork this so you can add a copy to your own account.
 
-* Fork this repo
+* TO FORK this repo
   * Click the "Fork" button in the top right of this page
   * Check to make sure you're on your own forked version of this repo (look for your username as part of the path in the top left).
 * Edit this README
